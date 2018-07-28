@@ -1,0 +1,6 @@
+[package]
+name = "rust-webserver"
+version = "0.1.0"
+authors = ["Jason McCarrell <jason.abz@gmail.com>"]
+
+[dependencies]
